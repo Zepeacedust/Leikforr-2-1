@@ -4,4 +4,4 @@ Why are we here, just to suffer?
 
 [Github build](https://github.com/Zepeacedust/Leikforr-2-1/releases)
 
-[Postmortem](/PostMortem)
+[Postmortem](/PostMortem.md)
