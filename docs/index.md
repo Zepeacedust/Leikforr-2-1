@@ -4,4 +4,4 @@ Why are we here, just to suffer?
 
 [Github build](https://github.com/Zepeacedust/Leikforr-2-1/releases)
 
-[Postmortem](/PostMortem.md)
+[myndband](https://youtu.be/s6DpQyLMKvI)
